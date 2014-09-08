@@ -5,7 +5,7 @@ Time spent: 2.5 hours spent in total
 
 Features:
 <p>
-<li>A text field to type in a total amount.</li>
+<li>A text field to type in a total amount.</li><br/>
 <li>3 buttons provided to calculate the tips based on different tip percentage.</li>
 
 <p>
