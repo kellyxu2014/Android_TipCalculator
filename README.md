@@ -1,6 +1,6 @@
 Android_SimpleTodo App
 ==================
-It's a simple calculator that allows users to calculate tips. 
+It's a simple calculator that allows users to calculate tips. <br/><br/>
 Time spent: 2.5 hours spent in total 
 
 Features:
